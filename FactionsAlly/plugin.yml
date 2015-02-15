@@ -5,5 +5,9 @@ author: roofer
 description: Custom spy punishment plugin
 
 commands:
-  f spy:
+  f spy a:
+    description: Spy on your allies faction chat
+  f spy t:
+    description: Spy on your allies faction chat
+  f spy a-t:
     description: Spy on your allies faction chat
