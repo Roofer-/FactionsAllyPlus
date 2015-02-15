@@ -1,0 +1,9 @@
+name: FactionsAlly
+main: com.roofer.FactionsAlly
+version: 1.0
+author: roofer
+description: Custom spy punishment plugin
+
+commands:
+  f spy:
+    description: Spy on your allies faction chat
